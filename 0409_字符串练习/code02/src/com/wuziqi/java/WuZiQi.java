@@ -1,3 +1,5 @@
+package com.wuziqi.java;
+
 public class WuZiQi {
     public static void main(String[] args) {
         // 代表不同的角色
